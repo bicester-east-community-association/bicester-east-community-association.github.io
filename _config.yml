@@ -24,11 +24,16 @@ url: "https://bicester-east-community-association.github.io/" # the base hostnam
 twitter_username: jekyllrb
 github_username:  jekyll
 
+
+
+remote_theme: pages-themes/cayman@v0.2.0
+
 # Build settings
 markdown: kramdown
 theme: cayman
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
