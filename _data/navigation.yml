@@ -1,0 +1,11 @@
+# main links
+main:
+  - title: What's On
+    url: /whats-on/
+  - title: Get Involved
+    url: /get-involved/
+  - title: Committee
+    url: /committee/
+  - title: Make a Booking
+    url: https://hallbookingonline.com/bicestereast/calendar.php
+
