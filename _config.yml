@@ -36,8 +36,8 @@ url: https://bicestereastcommunitycentre.org.uk/
 markdown: kramdown
 #remote_theme: pages-themes/cayman@v0.2.0
 #remote_theme: Phlow/feeling-responsive@db92e5e
-#remote_theme: mmistakes/minimal-mistakes@4.26.2
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.26.2
+#theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-include-cache
   - jekyll-feed
